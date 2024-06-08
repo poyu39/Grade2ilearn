@@ -1,0 +1,4 @@
+pandas==2.2.2
+pygsheets==2.0.6
+PyYAML==6.0.1
+selenium==4.21.0
