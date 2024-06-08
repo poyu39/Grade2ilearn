@@ -1,0 +1,15 @@
+# author: poyu39
+# version: 1.0
+
+TA:
+  username: # uid
+  password:
+
+worksheet:
+  url:
+  title:
+  start:
+  end:
+
+course:
+  import_url: 'https://ilearn.fcu.edu.tw/grade/import/csv/index.php?id=' # + course id
