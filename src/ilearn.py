@@ -8,7 +8,7 @@ class iLearn:
     def __init__(self, username, password):
         self.username = username
         self.password = password
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Edge()
     
     def login(self):
         self.driver.get('https://ilearn.fcu.edu.tw/login/index.php')
