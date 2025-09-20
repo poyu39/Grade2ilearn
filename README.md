@@ -1,4 +1,4 @@
-# Grade2ilearn
+# ilearn-google-sheet
 
 自動將 google sheet 中的成績自動匯入到 ilearn
 
